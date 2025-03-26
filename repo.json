@@ -50,7 +50,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 10878,
+    "DownloadCount": 10879,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -172,7 +172,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 2051266,
+    "DownloadCount": 2051496,
     "LastUpdate": 1743020168349,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -222,7 +222,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 488664,
+    "DownloadCount": 488665,
     "LastUpdate": 1739211665440,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -339,7 +339,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 1048427,
+    "DownloadCount": 1048497,
     "LastUpdate": 1742950567113,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -585,18 +585,18 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* testing 7.2\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.351...7.2.0.352",
-    "DownloadCount": 1060064,
+    "DownloadCount": 1060258,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.5.0.6",
+    "AssemblyVersion": "0.5.0.7",
     "Author": "Minmoose, Asgard and Contributors",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "Description": "Control & edit actors during GPose sessions.\n\nPlugin from https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
-    "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.6/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.6/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.6/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.7/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.7/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/Etheirys/Brio/releases/download/v0.5.0.7/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
     "InternalName": "Brio",
     "Name": "Brio",
@@ -1078,7 +1078,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 16862,
+    "DownloadCount": 16863,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -1209,8 +1209,8 @@
     "InternalName": "GatherbuddyReborn",
     "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.\n\nPlugin from https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
-    "TestingDalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
     "Tags": [
       "Gathering",
       "Fishing",
@@ -1239,7 +1239,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Revert change that breaks deserialization of Auto-Gather lists by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/293\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.20...7.2.2.21",
-    "DownloadCount": 178478,
+    "DownloadCount": 178479,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2590,7 +2590,7 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 13067,
+    "DownloadCount": 13068,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2713,7 +2713,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Stop attempting auto open chest when 'InCombat' by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/622\r\n* Flagged FeatherRain as a special targeting ability - Enables use by @ggscott in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n## New Contributors\r\n* @ggscott made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.8.0...7.1.8.1",
-    "DownloadCount": 737536,
+    "DownloadCount": 737540,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -3012,7 +3012,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 765622,
+    "DownloadCount": 765740,
     "LastUpdate": 1743019562847,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -3389,7 +3389,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 571687,
+    "DownloadCount": 571689,
     "LastUpdate": 1738845633382,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -3726,7 +3726,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1743023101,
+    "LastUpdate": 1743024002,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
