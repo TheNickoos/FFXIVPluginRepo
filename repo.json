@@ -53,7 +53,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.45 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.1...7.4.5.0",
-    "DownloadCount": 20511,
+    "DownloadCount": 20513,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -175,13 +175,13 @@
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
-    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "crafting"
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 4594357,
+    "DownloadCount": 4594389,
     "LastUpdate": 1772896358,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.50/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.50/update/latest.zip",
@@ -193,7 +193,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.48/install/testing.zip",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -203,7 +203,7 @@
     "Tags": [],
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "DownloadCount": 1351188,
+    "DownloadCount": 1351219,
     "LastUpdate": 1773703255,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.296/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.296/update/latest.zip",
@@ -228,14 +228,14 @@
     "Author": "Det, Taurenkey",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
-    "Description": "It hooks the fish for you, can you believe it?\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "It hooks the fish for you, can you believe it?\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "Gathering",
       "Fishing"
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 1324426,
+    "DownloadCount": 1324432,
     "LastUpdate": 1770747933,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.46/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.46/update/latest.zip",
@@ -244,40 +244,17 @@
     "DalamudApiLevel": "14",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
-    "originRepository": "https://puni.sh/api/plugins"
-  },
-  {
-    "Author": "croizat",
-    "Name": "CBT 🐎",
-    "Punchline": "Extra illegal",
-    "Description": "Yet another tweaks collection plugin.\n\nPlugin from https://puni.sh/api/repository/croizat",
-    "Tags": [
-      "automation",
-      "plugin",
-      "tweaks"
-    ],
-    "InternalName": "Automaton",
-    "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 539746,
-    "LastUpdate": 1773168689,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.160/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.160/update/latest.zip",
-    "AssemblyVersion": "69.160",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
-    "originRepository": "https://puni.sh/api/repository/croizat"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 1895205,
+    "DownloadCount": 1895210,
     "LastUpdate": 1770953402,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.11/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.11/update/latest.zip",
@@ -289,19 +266,19 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.15/install/testing.zip",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "combat"
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 279071,
+    "DownloadCount": 279072,
     "LastUpdate": 1766785215,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/update/latest.zip",
@@ -313,7 +290,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.5/install/testing.zip",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "BardToolbox",
@@ -508,7 +485,7 @@
     "Tags": [],
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "DownloadCount": 1697784,
+    "DownloadCount": 1697881,
     "LastUpdate": 1774023928,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/0.4.23.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/0.4.23.0/update/latest.zip",
@@ -556,7 +533,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Improvements for Criterion DaryaTheSeaMaid by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1130\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.11...7.4.5.13",
-    "DownloadCount": 2676086,
+    "DownloadCount": 2676131,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -630,7 +607,7 @@
     ],
     "InternalName": "ChilledLeves",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/LeveItAlone",
-    "DownloadCount": 90248,
+    "DownloadCount": 90249,
     "LastUpdate": 1771776806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.23/update/latest.zip",
@@ -654,7 +631,7 @@
     ],
     "InternalName": "Chocoholic",
     "RepoUrl": "https://github.com/kawaii/Chocoholic",
-    "DownloadCount": 1629,
+    "DownloadCount": 1630,
     "LastUpdate": 1769969386,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.2/update/latest.zip",
@@ -961,7 +938,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.5.0/EasyZoomReborn.zip",
     "Changelog": "Updated for patch 7.45\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.4.0.0...7.4.5.0",
-    "DownloadCount": 42626,
+    "DownloadCount": 42628,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -1095,7 +1072,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.4/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.4",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 816349,
+    "DownloadCount": 816354,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -1293,7 +1270,7 @@
     ],
     "InternalName": "Hyperborea",
     "RepoUrl": "https://github.com/kawaii/Hyperborea",
-    "DownloadCount": 32739,
+    "DownloadCount": 32741,
     "LastUpdate": 1766165729,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.33/update/latest.zip",
@@ -1363,7 +1340,7 @@
     ],
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-    "DownloadCount": 619454,
+    "DownloadCount": 619490,
     "LastUpdate": 1773867341,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.76.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.76.24/update/latest.zip",
@@ -1488,7 +1465,7 @@
     "Author": "Taurenkey, Gid, NightmareXIV",
     "Name": "LazyLoot",
     "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "plugin",
       "loot",
@@ -1497,7 +1474,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 210192,
+    "DownloadCount": 210198,
     "LastUpdate": 1769259115,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/update/latest.zip",
@@ -1506,7 +1483,7 @@
     "DalamudApiLevel": "14",
     "Changelog": "Small improvement to the add item and add duty buttons for custom user restrictions.",
     "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "NightmareXIV",
@@ -1582,25 +1559,6 @@
     "originRepository": "https://puni.sh/api/repository/justbees"
   },
   {
-    "Author": "Chalkos",
-    "Name": "Marketbuddy",
-    "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.\n\nPlugin from https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
-    "InternalName": "Marketbuddy",
-    "AssemblyVersion": "0.2.4.1",
-    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
-    "ApplicableVersion": "any",
-    "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": "1766192783",
-    "Changelog": "* update for api14 and 7.4 (thanks Cyenia)",
-    "originRepository": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json"
-  },
-  {
     "Author": "Zune",
     "Name": "Master Of Puppets",
     "InternalName": "MasterOfPuppets",
@@ -1644,12 +1602,29 @@
     "originRepository": "https://puni.sh/api/repository/herc"
   },
   {
-    "Author": "akira0245, Ori, Kalle, Zune",
-    "Name": "MidiBard 2",
-    "InternalName": "MidiBard2",
-    "AssemblyVersion": "3.2.3.0",
-    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com\n\nPlugin from https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+    "AcceptsFeedback": false,
     "ApplicableVersion": "any",
+    "AssemblyVersion": "3.2.3.0",
+    "Author": "akira0245, Ori, Kalle, Zune",
+    "CanUnloadAsync": false,
+    "DalamudApiLevel": 14,
+    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com\n\nPlugin from https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
+    "DownloadCount": 221454,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "IconUrl": "https://i.imgur.com/OSxqew4.png",
+    "ImageUrls": [
+      "https://i.imgur.com/1R13XF0.png"
+    ],
+    "InternalName": "MidiBard2",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "Name": "MidiBard 2",
+    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: ffbard.com",
     "RepoUrl": "https://midibard.org",
     "Tags": [
       "music",
@@ -1657,26 +1632,7 @@
       "midi",
       "bard"
     ],
-    "DalamudApiLevel": 14,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://i.imgur.com/1R13XF0.png"
-    ],
-    "IconUrl": "https://i.imgur.com/OSxqew4.png",
-    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: ffbard.com",
-    "Changelog": "1. Better support on Bard MIDI Library: Show Playlist Menu(Triple dots on top right) -> BML Browser; 2. Rename Electric Guitar Modes and adding help messages. 3. Loads of fixes and QOL changes! 4. 更新部分加入中文翻譯 Please join our Discord for details: ffbard.com",
-    "AcceptsFeedback": false,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 221454,
-    "LastUpdate": "1764618787",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "originRepository": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json"
+    "originRepository": "https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json"
   },
   {
     "ApplicableVersion": "any",
@@ -1804,11 +1760,11 @@
     "Author": "kawaii, NightmareXIV",
     "Name": "Orbwalker",
     "Punchline": "S P A C E G L I D I N G",
-    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-    "DownloadCount": 72022,
+    "DownloadCount": 72023,
     "LastUpdate": 1766353349,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.9/update/latest.zip",
@@ -1817,13 +1773,13 @@
     "DalamudApiLevel": "14",
     "Changelog": "Fix images",
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "kawaii, jukka",
     "Name": "Palace Pal",
     "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "potd",
       "hoh",
@@ -1832,7 +1788,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 199364,
+    "DownloadCount": 199368,
     "LastUpdate": 1766422628,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/update/latest.zip",
@@ -1841,20 +1797,20 @@
     "DalamudApiLevel": "14",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "Taurenkey, NightmareXIV, croizat",
     "Name": "Pandora's Box",
     "Punchline": "Do you dare to open Pandora's Box?",
-    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "punish",
       "plugin"
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1108058,
+    "DownloadCount": 1108064,
     "LastUpdate": 1771872064,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.28/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.28/update/latest.zip",
@@ -1866,7 +1822,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/install/testing.zip",
     "TestingDalamudApiLevel": "9",
     "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1901,7 +1857,7 @@
     "AssemblyVersion": "7.4.5.7",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.7/latest.zip",
     "Changelog": "## What's Changed\r\n* Hotfix for caching system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.6...7.4.5.7",
-    "DownloadCount": 334,
+    "DownloadCount": 335,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2088,7 +2044,7 @@
     "Author": "Liza Carvelli & various contributors",
     "Name": "Questionable",
     "Punchline": "A tiny quest helper plugin.",
-    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "quest",
       "msq",
@@ -2097,7 +2053,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 646353,
+    "DownloadCount": 646500,
     "LastUpdate": 1774077230,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.206.46.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.206.46.0/update/latest.zip",
@@ -2109,7 +2065,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/install/testing.zip",
     "TestingDalamudApiLevel": "13",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-lbslnc2t1ls.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "KangasZ",
@@ -2241,14 +2197,14 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Further fixes to SCH and BLM pvp rotations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1190\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.9...7.4.5.10",
-    "DownloadCount": 2301014,
+    "DownloadCount": 2301102,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
     "Author": "Taurenkey, Kage, NightmareXIV",
     "Name": "Saucy",
     "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Automates certain Gold Saucer mini-games.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "gold saucer",
       "mgp",
@@ -2256,7 +2212,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 505449,
+    "DownloadCount": 505450,
     "LastUpdate": 1767092642,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/update/latest.zip",
@@ -2268,7 +2224,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.3.0.4/install/testing.zip",
     "TestingDalamudApiLevel": "9",
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "NightmareXIV",
@@ -2360,36 +2316,38 @@
     "originRepository": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json"
   },
   {
-    "Author": "croizat",
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.4.1.1",
+    "Author": "daemitus",
+    "DalamudApiLevel": 9,
+    "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.\n\nPlugin from https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+    "IconUrl": "https://github.com/Xpahtalo/SomethingNeedDoing/raw/master/res/icon.png",
+    "ImageUrls": [],
+    "InternalName": "SomethingNeedDoing",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
     "Name": "Something Need Doing",
     "Punchline": "Work work.",
-    "Description": "Now for more than crafting!\n\nPlugin from https://puni.sh/api/repository/croizat",
-    "Tags": [],
-    "InternalName": "SomethingNeedDoing",
-    "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-    "DownloadCount": 703913,
-    "LastUpdate": 1772960380,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/14.09/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/14.09/update/latest.zip",
-    "AssemblyVersion": "14.09",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
-    "originRepository": "https://puni.sh/api/repository/croizat"
+    "RepoUrl": "https://github.com/Xpahtalo/SomethingNeedDoing",
+    "originRepository": "https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json"
   },
   {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
-    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [
       "Utility",
       "Accessibility"
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1646950,
+    "DownloadCount": 1647028,
     "LastUpdate": 1773892931,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/update/latest.zip",
@@ -2401,7 +2359,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.19/install/testing.zip",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "vera.lyn",
@@ -2668,7 +2626,7 @@
     "Tags": [],
     "InternalName": "vfaux",
     "RepoUrl": "https://github.com/awgil/vfaux",
-    "DownloadCount": 74670,
+    "DownloadCount": 74671,
     "LastUpdate": 1766096886,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.11/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.11/update/latest.zip",
@@ -2687,7 +2645,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 738884,
+    "DownloadCount": 738886,
     "LastUpdate": 1769248673,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.141/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.141/update/latest.zip",
@@ -2734,7 +2692,7 @@
     "Tags": [],
     "InternalName": "vnavmesh",
     "RepoUrl": null,
-    "DownloadCount": 1280987,
+    "DownloadCount": 1280997,
     "LastUpdate": 1771528015,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.2.9/update/latest.zip",
@@ -2756,7 +2714,7 @@
     "Tags": [],
     "InternalName": "vsatisfy",
     "RepoUrl": null,
-    "DownloadCount": 90359,
+    "DownloadCount": 90362,
     "LastUpdate": 1770139351,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.26/update/latest.zip",
@@ -2863,7 +2821,7 @@
     "Tags": [],
     "InternalName": "Workshoppa",
     "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
-    "DownloadCount": 3862,
+    "DownloadCount": 3863,
     "LastUpdate": 1766205466,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/update/latest.zip",
@@ -2878,15 +2836,15 @@
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 752937,
-    "LastUpdate": 1772906072,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.20/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.20/update/latest.zip",
-    "AssemblyVersion": "1.0.3.20",
+    "DownloadCount": 752988,
+    "LastUpdate": 1774107900,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.21/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.21/update/latest.zip",
+    "AssemblyVersion": "1.0.3.21",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
@@ -2894,7 +2852,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/install/testing.zip",
     "TestingDalamudApiLevel": "13",
     "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "wah",
@@ -2918,11 +2876,11 @@
     "Author": "daemitus, kawaii",
     "Name": "Yes Already",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n\nPlugin from https://puni.sh/api/plugins",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n\nPlugin from https://love.puni.sh/ment.json",
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1127224,
+    "DownloadCount": 1127230,
     "LastUpdate": 1770367039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.09/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.09/update/latest.zip",
@@ -2934,7 +2892,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
-    "originRepository": "https://puni.sh/api/plugins"
+    "originRepository": "https://love.puni.sh/ment.json"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -3034,7 +2992,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1774106403,
+    "LastUpdate": 1774108202,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
