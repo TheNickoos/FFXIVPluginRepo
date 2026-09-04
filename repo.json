@@ -113,16 +113,67 @@
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
   },
   {
+    "Author": "zbee, Liza Carvelli",
+    "Name": "ARC",
+    "Punchline": "Better AutoRetainer Venture Planner",
+    "Description": "Instead of manually managing retainer plans for each individual character, which can get fairly tedious fairly quickly, we optimize this a bit and only manage \"high-level\" plans.\n\nOriginally made by Liza Carvelli - thank you for your work.\n\nPlugin from https://puni.sh/api/repository/justbees",
+    "Tags": [
+      "ar",
+      "autoretainer",
+      "retainers",
+      "retainer",
+      "venture",
+      "ventures",
+      "venture lists"
+    ],
+    "InternalName": "ARControl",
+    "RepoUrl": "https://github.com/zbee/ARC",
+    "DownloadCount": 4219,
+    "LastUpdate": 1787594633,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
+    "AssemblyVersion": "8.7",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Added catching for invalid Item IDs on the Retainers tab\n- Fixed dependencies, bumped versions\n\n(was unhappy with the frequency of errors in 8.6, so just didn't release it)",
+    "IconUrl": "https://puni.sh/api/plugins/icon/99",
+    "originRepository": "https://puni.sh/api/repository/justbees"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "Discard Helper",
+    "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
+    "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "autoretainer",
+      "automation",
+      "discard",
+      "yeet"
+    ],
+    "InternalName": "ARDiscard",
+    "RepoUrl": "https://github.com/VeraNala/ARDiscard",
+    "DownloadCount": 4473,
+    "LastUpdate": 1777603212,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
+    "AssemblyVersion": "8.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/80",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
-    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "crafting"
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 5890956,
+    "DownloadCount": 5891000,
     "LastUpdate": 1788272491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/update/latest.zip",
@@ -134,7 +185,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/6",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "XeldarAlz",
@@ -165,6 +216,44 @@
     "DownloadCount": 10001,
     "LastUpdate": "1787079507",
     "originRepository": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json"
+  },
+  {
+    "Author": "erdelf, Herculezz",
+    "Name": "AutoDuty",
+    "Punchline": "Dungeons while you sleep, eat, or work. (Swimsuit Shtola made easy.)",
+    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)\n\nPlugin from https://puni.sh/api/repository/erdelf",
+    "Tags": [
+      "auto",
+      "duty",
+      "dungeon",
+      "trial",
+      "raid",
+      "unsync",
+      "level",
+      "erdelf"
+    ],
+    "InternalName": "AutoDuty",
+    "RepoUrl": "https://github.com/erdelf/AutoDuty",
+    "DownloadCount": 1871232,
+    "LastUpdate": 1786992730,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
+    "AssemblyVersion": "0.0.0.335",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "## What's Changed\r\n* (1048) Porta Decumana: Stabilizing by @erdelf in https://github.com/erdelf/AutoDuty/pull/395\r\n* AutoRetainer MultiMode Between Loops by @erdelf in https://github.com/erdelf/AutoDuty/pull/397\r\n* Gimmick Novice Entries only when lvl 49 or above by @erdelf in https://github.com/erdelf/AutoDuty/pull/398\r\n* Create Default profile if no profile exists by @erdelf in https://github.com/erdelf/AutoDuty/pull/399\r\n* Playlist saving by @erdelf in https://github.com/erdelf/AutoDuty/pull/400\r\n* Shisui in the stable leveling list by @erdelf in https://github.com/erdelf/AutoDuty/pull/401\r\n* (1036) Sastasha: Safety check for keys by @erdelf in https://github.com/erdelf/AutoDuty/pull/402\r\n* Collision Condition by @erdelf in https://github.com/erdelf/AutoDuty/pull/404\r\n* Optionally disabling party coherency by @erdelf in https://github.com/erdelf/AutoDuty/pull/406\r\n* ToDo Condition by @erdelf in https://github.com/erdelf/AutoDuty/pull/408\r\n* Revival logic adjusted by @erdelf in https://github.com/erdelf/AutoDuty/pull/410\r\n* Glamour Chests only when unlocked by @erdelf in https://github.com/erdelf/AutoDuty/pull/412\r\n* (1036) Sastasha: Safety check for interactions by @erdelf in https://github.com/erdelf/AutoDuty/pull/409\r\n* (1127) React to Attack Markers: Update Party Coherency flag by @erdelf in https://github.com/erdelf/AutoDuty/pull/407\r\n* (1142) Sirensong: Revamp boat opening by @erdelf in https://github.com/erdelf/AutoDuty/pull/405\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.330...0.0.0.335",
+    "TestingAssemblyVersion": "0.0.0.334",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.334/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/54",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+      "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+      "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+      "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+      "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/erdelf"
   },
   {
     "Author": "XeldarAlz",
@@ -201,14 +290,14 @@
     "Author": "Det, croizat",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
-    "Description": "It hooks the fish for you, can you believe it?\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "It hooks the fish for you, can you believe it?\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "Gathering",
       "Fishing"
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 2443887,
+    "DownloadCount": 2443892,
     "LastUpdate": 1787851448,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/update/latest.zip",
@@ -220,7 +309,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.36/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/47",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "croizat",
@@ -234,7 +323,7 @@
     ],
     "InternalName": "Automaton",
     "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 915597,
+    "DownloadCount": 915607,
     "LastUpdate": 1788176242,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/update/latest.zip",
@@ -280,11 +369,11 @@
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 2466941,
+    "DownloadCount": 2466976,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -296,19 +385,19 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.33/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/24",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "combat"
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 375047,
+    "DownloadCount": 375050,
     "LastUpdate": 1785467258,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
@@ -320,7 +409,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/11",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "BardToolbox",
@@ -507,6 +596,33 @@
     "originRepository": "https://ffxiv.ohkannaduh.com/plugins.json"
   },
   {
+    "Author": "veyn, xan_0",
+    "Name": "Boss Mod",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "BossMod",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "DownloadCount": 2492970,
+    "LastUpdate": 1787005305,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/update/latest.zip",
+    "AssemblyVersion": "7.5.5.8",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "7.5.5.13",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.13/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/30",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+      "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+      "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
     "Author": "The Combat Reborn Team",
     "Name": "BossMod Reborn",
     "InternalName": "BossModReborn",
@@ -578,6 +694,29 @@
     "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
+    "Author": "spider",
+    "Name": "CCAnonymizer",
+    "Punchline": "Preserving your mental since season 11",
+    "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!\n\nPlugin from https://puni.sh/api/repository/spider",
+    "Tags": [
+      "pvp",
+      "cc",
+      "anonymizer"
+    ],
+    "InternalName": "CCAnonymizer",
+    "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
+    "DownloadCount": 378,
+    "LastUpdate": 1777571150,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/72/CCAnonymizer/versions/0.4.1.1/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/72/CCAnonymizer/versions/0.4.1.1/update/latest.zip",
+    "AssemblyVersion": "0.4.1.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "help me im stuck in a dalamud changelog please get me out of here",
+    "IconUrl": "https://puni.sh/api/plugins/icon/72",
+    "originRepository": "https://puni.sh/api/repository/spider"
+  },
+  {
     "Author": "Ice",
     "Name": "Chilled Leves",
     "Punchline": "I heard you like your leves on the rocks.",
@@ -599,6 +738,75 @@
     "Changelog": "API 15 bump",
     "IconUrl": "https://puni.sh/api/plugins/icon/68",
     "originRepository": "https://puni.sh/api/repository/ice"
+  },
+  {
+    "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.\n\nPlugin from https://puni.sh/api/repository/kawaii",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "RepoUrl": "https://github.com/kawaii/Chocoholic",
+    "DownloadCount": 5456,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116",
+    "originRepository": "https://puni.sh/api/repository/kawaii"
+  },
+  {
+    "Author": "Akechi",
+    "Name": "Chroma",
+    "Punchline": "Taste the rainbow.",
+    "Description": "Chroma is a simple accessibility tool that allows full color customization of all AOE omens/indicators - and then some.\n\nPlugin from https://puni.sh/api/repository/akechi",
+    "Tags": [
+      "accessibility",
+      "omens",
+      "indicators",
+      "color"
+    ],
+    "InternalName": "Chroma",
+    "RepoUrl": "https://github.com/Akechi-kun/Chroma",
+    "DownloadCount": 982,
+    "LastUpdate": 1777745911,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.2.0.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.2.0.2/update/latest.zip",
+    "AssemblyVersion": "1.2.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Updated dependencies",
+    "IconUrl": "https://puni.sh/api/plugins/icon/102",
+    "originRepository": "https://puni.sh/api/repository/akechi"
+  },
+  {
+    "Author": "xan_0",
+    "Name": "Cope, Seethe, Meld",
+    "Punchline": "Why would you make a plugin for something you do once or twice an expansion?",
+    "Description": "Auto melds your gear\n\nPlugin from https://puni.sh/api/repository/xan",
+    "Tags": [
+      "melding",
+      "automation"
+    ],
+    "InternalName": "CopeSeetheMeld",
+    "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
+    "DownloadCount": 6519,
+    "LastUpdate": 1783019821,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
+    "AssemblyVersion": "0.0.3.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "originRepository": "https://puni.sh/api/repository/xan"
   },
   {
     "Author": "DodingDaga",
@@ -681,6 +889,46 @@
     "DownloadCount": 23138,
     "LastUpdate": "1781336152",
     "originRepository": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "Deliveroo",
+    "Punchline": "Better Grand Company Deliveries",
+    "Description": "Better Grand Company Deliveries\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [],
+    "InternalName": "Deliveroo",
+    "RepoUrl": "https://github.com/VeraNala/Deliveroo",
+    "DownloadCount": 17995,
+    "LastUpdate": 1777864065,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
+    "AssemblyVersion": "7.5.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "API 15 Bump",
+    "IconUrl": "https://puni.sh/api/plugins/icon/79",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
+    "Author": "kawaii",
+    "Name": "Dropbox",
+    "Punchline": "Your personal vending machine.",
+    "Description": "Your personal vending machine.\n\nPlugin from https://puni.sh/api/repository/kawaii",
+    "Tags": [],
+    "InternalName": "Dropbox",
+    "RepoUrl": "https://github.com/kawaii/Dropbox",
+    "DownloadCount": 48810,
+    "LastUpdate": 1783980806,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
+    "AssemblyVersion": "1.0.2.15",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Finally fix whitelist and detect full inventory",
+    "TestingAssemblyVersion": "1.0.2.14",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.14/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "originRepository": "https://puni.sh/api/repository/kawaii"
   },
   {
     "Author": "NightmareXIV",
@@ -838,6 +1086,83 @@
     "originRepository": "https://puni.sh/api/repository/ice"
   },
   {
+    "Author": "erdelf",
+    "Name": "FC Tracker",
+    "Punchline": "Keeping an eye on all your subsidiaries, so you don’t have to.",
+    "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.\n\nPlugin from https://puni.sh/api/repository/erdelf",
+    "Tags": [
+      "track",
+      "fc",
+      "company",
+      "subs",
+      "erdelf"
+    ],
+    "InternalName": "FCTracker",
+    "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
+    "DownloadCount": 3831,
+    "LastUpdate": 1786699308,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
+    "AssemblyVersion": "0.0.0.38",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "[fix AT tracking](https://github.com/erdelf/ffxiv_FCTracker/commit/b0738479111229be09c4d8fbe0e6581126bf41b3)\r\n\r\n**Full Changelog**: https://github.com/erdelf/ffxiv_FCTracker/compare/0.0.0.37...0.0.0.38",
+    "TestingAssemblyVersion": "0.0.0.35",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.35/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/135",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/135/image-tb56dnwd3u7.png",
+      "https://s3.puni.sh/media/plugin/135/image-o2i6wu08hz.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/erdelf"
+  },
+  {
+    "Author": "sourpuh",
+    "Name": "Fidget Spinner",
+    "Punchline": "like a record baby",
+    "Description": "spin in place\n\nPlugin from https://puni.sh/api/repository/sourpuh",
+    "Tags": [
+      "spin"
+    ],
+    "InternalName": "FidgetSpinner",
+    "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
+    "DownloadCount": 541,
+    "LastUpdate": 1783714139,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/update/latest.zip",
+    "AssemblyVersion": "0.0.0.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "hyperspin! Spin speeds can now go up to 10x which is way higher than other people can even see.",
+    "TestingAssemblyVersion": "0.0.0.4",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/133",
+    "originRepository": "https://puni.sh/api/repository/sourpuh"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "Fish Notify",
+    "Punchline": "Plays a sound when a fish is caught",
+    "Description": "Plays a sound when a fish is caught, depending on tug-strength\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "fishing"
+    ],
+    "InternalName": "FishNotify",
+    "RepoUrl": "https://github.com/VeraNala/FishNotify",
+    "DownloadCount": 429,
+    "LastUpdate": 1768047503,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/81/FishNotify/versions/10.1/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/81/FishNotify/versions/10.1/update/latest.zip",
+    "AssemblyVersion": "10.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "Waupdate",
+    "IconUrl": "https://puni.sh/api/plugins/icon/81",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
     "Author": "Zune, Mangles, Potatoes",
     "Name": "Game Chest",
     "InternalName": "GameChest",
@@ -925,6 +1250,28 @@
     "originRepository": "https://puni.sh/api/repository/gid"
   },
   {
+    "Author": "vera.lyn",
+    "Name": "Gearsetter",
+    "Punchline": "Find gear upgrades",
+    "Description": "Browse through all gear pieces available for each class/job and show possible upgrades\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "gearset",
+      "gearsets"
+    ],
+    "InternalName": "Gearsetter",
+    "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
+    "DownloadCount": 34805,
+    "LastUpdate": 1777759856,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
+    "AssemblyVersion": "4.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "API 15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/98",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
     "Author": "Ottermandias",
     "Name": "Glamourer",
     "Punchline": "Change and save appearance of players.",
@@ -970,7 +1317,7 @@
     ],
     "InternalName": "GlamourLog",
     "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-    "DownloadCount": 27743,
+    "DownloadCount": 27744,
     "LastUpdate": 1787563321,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/update/latest.zip",
@@ -1020,7 +1367,7 @@
     "Tags": [],
     "InternalName": "Henchman",
     "RepoUrl": "https://github.com/Knightmore/Henchman",
-    "DownloadCount": 180477,
+    "DownloadCount": 180486,
     "LastUpdate": 1788378983,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.22/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.22/update/latest.zip",
@@ -1033,6 +1380,34 @@
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/85",
     "originRepository": "https://puni.sh/api/repository/knightmore"
+  },
+  {
+    "Author": "jukka",
+    "Name": "Hoard Farm - DETECTABLE",
+    "Punchline": "Become an accursed Hoarder!",
+    "Description": "Might be detectable! Use at own risk! Plugin to help farming DeepDungeon Hoards (...for you)\n\nPlugin from https://puni.sh/api/repository/jukka",
+    "Tags": [
+      "hoard",
+      "farm",
+      "help",
+      "hoarder",
+      "accursed",
+      "achievement"
+    ],
+    "InternalName": "HoardFarm",
+    "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+    "DownloadCount": 15606,
+    "LastUpdate": 1766600220,
+    "TestingAssemblyVersion": "1.6.0.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.6.0.2/install/testing.zip",
+    "TestingDalamudApiLevel": "14",
+    "IsTestingExclusive": true,
+    "AssemblyVersion": "1.6.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/52",
+    "originRepository": "https://puni.sh/api/repository/jukka"
   },
   {
     "Author": "NightmareXIV",
@@ -1058,6 +1433,33 @@
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/HuntTrainAssistant/master/HuntTrainAssistant/images/icon.png",
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Hyperborea",
+    "Punchline": "What if we GPosed in the Mordion Gaol?",
+    "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.\n\nPlugin from https://puni.sh/api/repository/kawaii",
+    "Tags": [
+      "gpose"
+    ],
+    "InternalName": "Hyperborea",
+    "RepoUrl": "https://github.com/kawaii/Hyperborea",
+    "DownloadCount": 47947,
+    "LastUpdate": 1787504034,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
+    "AssemblyVersion": "1.0.1.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.0.1.1",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.1/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/45",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/kawaii"
   },
   {
     "Author": "GiR-Zippo, Meowchestra",
@@ -1115,7 +1517,7 @@
     ],
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-    "DownloadCount": 1229869,
+    "DownloadCount": 1229870,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -1155,6 +1557,28 @@
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
   },
   {
+    "Author": "sourpuh",
+    "Name": "Interjection",
+    "Punchline": "Better interrupt and enmity tracking",
+    "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.\n\nPlugin from https://puni.sh/api/repository/sourpuh",
+    "Tags": [],
+    "InternalName": "Interjection",
+    "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
+    "DownloadCount": 1029,
+    "LastUpdate": 1777663581,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/63/Interjection/versions/0.0.0.5/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/63/Interjection/versions/0.0.0.5/update/latest.zip",
+    "AssemblyVersion": "0.0.0.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/63",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/63/image-w9qpjb1phr.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/sourpuh"
+  },
+  {
     "Author": "KangasZ",
     "Name": "Kangas Tweaks Plugin",
     "Punchline": "Weather tracker and daily/weekly reset tracker",
@@ -1172,6 +1596,27 @@
     "DownloadCount": 0,
     "LastUpdate": "1786476252",
     "originRepository": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "KitchenSink",
+    "Punchline": "A plugin for things that aren't worth their own plugins.",
+    "Description": "A plugin for things that aren't worth their own plugins; see commands for details.\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "character switch"
+    ],
+    "InternalName": "KitchenSink",
+    "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
+    "DownloadCount": 965,
+    "LastUpdate": 1755808371,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/95/KitchenSink/versions/4.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/95/KitchenSink/versions/4.0/update/latest.zip",
+    "AssemblyVersion": "4.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "13",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/95",
+    "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
     "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -1200,7 +1645,7 @@
     "Author": "Taurenkey, Gid, NightmareXIV",
     "Name": "LazyLoot",
     "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "plugin",
       "loot",
@@ -1218,7 +1663,7 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/9",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "NightmareXIV",
@@ -1314,7 +1759,7 @@
     "Author": "Chalkos, NightmareXIV",
     "Name": "Marketbuddy",
     "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Helper for your day-to-day market operations.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "marketboard"
     ],
@@ -1329,7 +1774,7 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/131",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "NightmareXIV, Marulu, StreetRat",
@@ -1374,6 +1819,28 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "Herculezz",
+    "Name": "MBT",
+    "Punchline": "Multi-boxer tool kit",
+    "Description": "A bunch of utilities to simplify multi-boxing, and a IPC broadcaster\n\nPlugin from https://puni.sh/api/repository/herc",
+    "Tags": [],
+    "InternalName": "MBT",
+    "RepoUrl": "https://github.com/ffxivcode/MBT",
+    "DownloadCount": 1714,
+    "LastUpdate": 1725604589,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/59/MBT/versions/0.0.0.16/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/59/MBT/versions/0.0.0.16/update/latest.zip",
+    "AssemblyVersion": "0.0.0.16",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "10",
+    "Changelog": "## What's Changed\r\n* Add issue templates by @Aimsucks\r\n\r\n## New Contributors\r\n* @Aimsucks made their first contribution\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/MBT/compare/0.0.0.15...0.0.0.16",
+    "IconUrl": "https://puni.sh/api/plugins/icon/59",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/59/image-76g0cnkuc7q.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/herc"
   },
   {
     "Author": "akira0245, Ori, Kalle, Zune",
@@ -1429,6 +1896,37 @@
       "Sea Of Stars"
     ],
     "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
+  },
+  {
+    "Author": "jukka",
+    "Name": "NecroLens",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.\n\nPlugin from https://puni.sh/api/repository/jukka",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "InternalName": "NecroLens",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "DownloadCount": 76721,
+    "LastUpdate": 1777738526,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
+    "AssemblyVersion": "1.0.8.12",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/53",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/jukka"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1490,7 +1988,7 @@
     "Author": "kawaii, NightmareXIV",
     "Name": "Orbwalker",
     "Punchline": "S P A C E G L I D I N G",
-    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
@@ -1503,13 +2001,33 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/12",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
+  },
+  {
+    "Author": "wah",
+    "Name": "PaissaWah",
+    "Punchline": "LifeStream must be installed to travel!",
+    "Description": "PassiaDB Search\n\nPlugin from https://puni.sh/api/repository/wah",
+    "Tags": [
+      "wah"
+    ],
+    "InternalName": "PaissaWah",
+    "RepoUrl": "https://github.com/Brappp/PaissaWah",
+    "DownloadCount": 377,
+    "LastUpdate": 1778548030,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/update/latest.zip",
+    "AssemblyVersion": "1.0.0.7",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "originRepository": "https://puni.sh/api/repository/wah"
   },
   {
     "Author": "kawaii, jukka",
     "Name": "Palace Pal",
     "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "potd",
       "hoh",
@@ -1518,7 +2036,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 249331,
+    "DownloadCount": 249332,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -1527,13 +2045,13 @@
     "DalamudApiLevel": "15",
     "Changelog": "",
     "IconUrl": "https://puni.sh/api/plugins/icon/32",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "Taurenkey, NightmareXIV, croizat",
     "Name": "Pandora's Box",
     "Punchline": "Do you dare to open Pandora's Box?",
-    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "qol",
       "tweaks",
@@ -1542,7 +2060,7 @@
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1345051,
+    "DownloadCount": 1345053,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -1554,7 +2072,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/8",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1619,6 +2137,29 @@
       "Sea Of Stars"
     ],
     "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
+  },
+  {
+    "Author": "wah",
+    "Name": "Plugin Preset Manager",
+    "Punchline": "Manage plugin presets with always-on support.",
+    "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset\n\nPlugin from https://puni.sh/api/repository/wah",
+    "Tags": [
+      "plugin",
+      "preset",
+      "manager",
+      "utility"
+    ],
+    "InternalName": "PluginPresetManager",
+    "RepoUrl": "https://github.com/Brappp/PluginPresetManager",
+    "DownloadCount": 808,
+    "LastUpdate": 1785017411,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/105/PluginPresetManager/versions/1.0.7.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/105/PluginPresetManager/versions/1.0.7.0/update/latest.zip",
+    "AssemblyVersion": "1.0.7.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "originRepository": "https://puni.sh/api/repository/wah"
   },
   {
     "Author": "Plume",
@@ -1725,7 +2266,7 @@
     "Author": "the Puni.sh Quest Squad",
     "Name": "Questionable",
     "Punchline": "A tiny quest helper plugin.",
-    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "quest",
       "msq",
@@ -1734,7 +2275,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 2034544,
+    "DownloadCount": 2034669,
     "LastUpdate": 1788495942,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.34/update/latest.zip",
@@ -1746,7 +2287,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/94",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "KangasZ",
@@ -1767,6 +2308,24 @@
     "DownloadCount": 0,
     "LastUpdate": "1786476252",
     "originRepository": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json"
+  },
+  {
+    "Author": "Taurenkey, NightmareXIV",
+    "Name": "ReActionEx",
+    "Punchline": "QoL for the battle system.",
+    "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.\n\nPlugin from https://puni.sh/api/repository/taurenkey",
+    "Tags": [],
+    "InternalName": "ReActionEx",
+    "RepoUrl": "https://puni.sh/api/repository/taurenkey",
+    "DownloadCount": 7762,
+    "LastUpdate": 1777883909,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/55/ReActionEx/versions/1.0.1.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/55/ReActionEx/versions/1.0.1.2/update/latest.zip",
+    "AssemblyVersion": "1.0.1.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Fix queue more crashing",
+    "originRepository": "https://puni.sh/api/repository/taurenkey"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1867,7 +2426,7 @@
     "Author": "Taurenkey, Kage, NightmareXIV",
     "Name": "Saucy",
     "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Automates certain Gold Saucer mini-games.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "gold saucer",
       "mgp",
@@ -1875,7 +2434,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 1076798,
+    "DownloadCount": 1076808,
     "LastUpdate": 1788197704,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
@@ -1884,7 +2443,7 @@
     "DalamudApiLevel": "15",
     "Changelog": "fix jumbo cactpot",
     "IconUrl": "https://puni.sh/api/plugins/icon/7",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "NightmareXIV",
@@ -1910,6 +2469,27 @@
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/SelectString/master/SelectString/images/icon.png",
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "glyceri",
+    "Name": "Silence No More",
+    "Punchline": "Shows whispers normally blocked during duties.",
+    "Description": "Shows whispers normally blocked during duties.\n\nPlugin from https://puni.sh/api/repository/glyceri",
+    "Tags": [
+      "Duty",
+      "Chat"
+    ],
+    "InternalName": "SilenceNoMore",
+    "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
+    "DownloadCount": 2295,
+    "LastUpdate": 1778738818,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/106/SilenceNoMore/versions/1.4.0.1/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/106/SilenceNoMore/versions/1.4.0.1/update/latest.zip",
+    "AssemblyVersion": "1.4.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "API16=5",
+    "originRepository": "https://puni.sh/api/repository/glyceri"
   },
   {
     "Author": "Caraxi",
@@ -1978,14 +2558,14 @@
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
-    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "Utility",
       "Accessibility"
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2227821,
+    "DownloadCount": 2227831,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -1997,7 +2577,30 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.22/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/10",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "Squadronista",
+    "Punchline": "Squadron Mission Solver",
+    "Description": "Helps optimize squadron mission compositions\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "squadron",
+      "grand company",
+      "missions"
+    ],
+    "InternalName": "Squadronista",
+    "RepoUrl": "https://github.com/yourusername/Squadronista",
+    "DownloadCount": 8439,
+    "LastUpdate": 1778554077,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
+    "AssemblyVersion": "7.5.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "API15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/101",
+    "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
     "Author": "NightmareXIV",
@@ -2140,6 +2743,200 @@
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
   },
   {
+    "Author": "veyn, croizat",
+    "Name": "vfallguy",
+    "Punchline": "Get that achievement!",
+    "Description": "Bot that does fall guys event automatically.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "vfallguy",
+    "RepoUrl": null,
+    "DownloadCount": 56878,
+    "LastUpdate": 1777500971,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
+    "AssemblyVersion": "0.0.0.12",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/41",
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
+    "Author": "veyn",
+    "Name": "Easier Faux Hollows",
+    "Punchline": "Faux Hollows solver based on known patterns",
+    "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "vfaux",
+    "RepoUrl": "https://github.com/awgil/vfaux",
+    "DownloadCount": 97766,
+    "LastUpdate": 1777496806,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
+    "AssemblyVersion": "0.0.0.12",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/29",
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
+    "Author": "veyn, croizat",
+    "Name": "V(ery) Island",
+    "Punchline": "Automate island sanctuary activities",
+    "Description": "Automate gathering, workshop assignments, etc.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "visland",
+    "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+    "DownloadCount": 868546,
+    "LastUpdate": 1784403322,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
+    "AssemblyVersion": "0.0.0.150",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/28",
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
+    "Author": "vera.lyn",
+    "Name": "Vera's Integrated World Improvements",
+    "Punchline": "Vera's Integrated World Improvements",
+    "Description": "A collection of plugins-turned-modules, QoL improvements, and Automation features.\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [
+      "\"VIWI\"",
+      "\"viwi\"",
+      "\"Vera\"",
+      "\"Workshoppa\"",
+      "\"Deliveroo\"",
+      "\"AutoLogin\"",
+      "\"Login\"",
+      "\"AoE\""
+    ],
+    "InternalName": "VIWI",
+    "RepoUrl": null,
+    "DownloadCount": 43362,
+    "LastUpdate": 1780272595,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
+    "AssemblyVersion": "0.0.0.62",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/108",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
+    "Author": "veyn, xan_0",
+    "Name": "vnavmesh",
+    "Punchline": "Move around!",
+    "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "vnavmesh",
+    "RepoUrl": null,
+    "DownloadCount": 1875547,
+    "LastUpdate": 1787843275,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
+    "AssemblyVersion": "1.2.3.14",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "0.5.6.28",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/0.5.6.28/install/testing.zip",
+    "TestingDalamudApiLevel": "13",
+    "IconUrl": "https://puni.sh/api/plugins/icon/48",
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
+    "Author": "veyn, croizat",
+    "Name": "Satisfier",
+    "Punchline": "Simplify custom deliveries.",
+    "Description": "Make custom deliveries less annoying by automating the process.\n\nPlugin from https://puni.sh/api/repository/veyn",
+    "Tags": [],
+    "InternalName": "vsatisfy",
+    "RepoUrl": null,
+    "DownloadCount": 154398,
+    "LastUpdate": 1781106410,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
+    "AssemblyVersion": "0.0.0.37",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/58",
+    "originRepository": "https://puni.sh/api/repository/veyn"
+  },
+  {
+    "Author": "wah",
+    "Name": "WahJumps",
+    "Punchline": "Jumping Puzzle Directory",
+    "Description": "Jumping Puzzle Directory for the Strange Housing Discord\n\nPlugin from https://puni.sh/api/repository/wah",
+    "Tags": [],
+    "InternalName": "WahJumps",
+    "RepoUrl": null,
+    "DownloadCount": 2599,
+    "LastUpdate": 1785625039,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/update/latest.zip",
+    "AssemblyVersion": "1.0.11.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/93",
+    "originRepository": "https://puni.sh/api/repository/wah"
+  },
+  {
+    "Author": "wah",
+    "Name": "wahventory",
+    "Punchline": "Advanced inventory management with safety filters and auto-discard",
+    "Description": "Advanced inventory management with safety filters and auto-discard\n\nPlugin from https://puni.sh/api/repository/wah",
+    "Tags": [],
+    "InternalName": "wahventory",
+    "RepoUrl": null,
+    "DownloadCount": 61534,
+    "LastUpdate": 1780756377,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/update/latest.zip",
+    "AssemblyVersion": "4.6.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "originRepository": "https://puni.sh/api/repository/wah"
+  },
+  {
+    "Author": "sourpuh",
+    "Name": "Waymark Studio",
+    "Punchline": "The Ultimate FFXIV Waymark Plugin",
+    "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.\n\nPlugin from https://puni.sh/api/repository/sourpuh",
+    "Tags": [
+      "waymark",
+      "studio",
+      "preset",
+      "marker"
+    ],
+    "InternalName": "WaymarkStudio",
+    "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
+    "DownloadCount": 71009,
+    "LastUpdate": 1781651989,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/update/latest.zip",
+    "AssemblyVersion": "0.0.0.53",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "0.0.0.53",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/62",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/62/image-3wzsk69fih2.png",
+      "https://s3.puni.sh/media/plugin/62/image-cz33a2rx09l.png"
+    ],
+    "originRepository": "https://puni.sh/api/repository/sourpuh"
+  },
+  {
     "Author": "NightmareXIV",
     "Name": "WeathermanExtras",
     "Punchline": "Experimental Weatherman functions. ",
@@ -2160,10 +2957,29 @@
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
   },
   {
+    "Author": "vera.lyn",
+    "Name": "Workshoppa",
+    "Punchline": "Better Company Workshop Turn-In",
+    "Description": "Better Company Workshop Turn-In\n\nPlugin from https://puni.sh/api/repository/vera",
+    "Tags": [],
+    "InternalName": "Workshoppa",
+    "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
+    "DownloadCount": 4242,
+    "LastUpdate": 1766205466,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/update/latest.zip",
+    "AssemblyVersion": "9.2.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "API 14",
+    "IconUrl": "https://puni.sh/api/plugins/icon/97",
+    "originRepository": "https://puni.sh/api/repository/vera"
+  },
+  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [
       "combat",
       "rotation",
@@ -2171,7 +2987,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 1175239,
+    "DownloadCount": 1175245,
     "LastUpdate": 1788017040,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/update/latest.zip",
@@ -2183,17 +2999,17 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.21/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/60",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "daemitus, croizat",
     "Name": "Yes Already",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n\nPlugin from https://love.puni.sh/ment.json",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n\nPlugin from https://puni.sh/api/plugins",
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1306629,
+    "DownloadCount": 1306631,
     "LastUpdate": 1783944702,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
@@ -2205,7 +3021,7 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://puni.sh/api/plugins/icon/26",
-    "originRepository": "https://love.puni.sh/ment.json"
+    "originRepository": "https://puni.sh/api/plugins"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -2305,7 +3121,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1788496203,
+    "LastUpdate": 1788496803,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
